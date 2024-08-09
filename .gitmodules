@@ -1,0 +1,6 @@
+[submodule "chat-application"]
+	path = chat-application
+	url = git@github.com:Nam-1810/chat-application.git
+[submodule "DiceGame"]
+	path = DiceGame
+	url = git@github.com:Nam-1810/DiceGame.git
